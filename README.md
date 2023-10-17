@@ -8,7 +8,7 @@ Rápida descrição do objetivo de fazer esse projeto
 | -------------  | --- |
 | :sparkles: Nome        | **Alura-newsletter**
 | :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
+| :rocket: URL         | https://alura-newsletter-guiagost.vercel.app/
 | :fire: Curso    | https://cursos.alura.com.br/course/tailwind-css-estilizando-pagina-classes-utilitarias
 
 ## Detalhes do projeto
