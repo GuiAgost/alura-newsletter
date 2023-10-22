@@ -7,7 +7,7 @@ Este é o projeto alura-newsletter desenvolvido durante curso de [Tailwind CSS: 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Alura-newsletter**
-| :label: Tecnologias | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="30" hedight="30"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="30" hedight="30"/><img src="https://github.com/GuiAgost/alurabooks/assets/76624588/72e1505f-3653-4112-9efc-84a5f0e74847" width="30" hedight="30"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="30" hedight="30"/>
+| :label: Tecnologias | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="30" hedight="30"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="30" hedight="30"/>
 | :rocket: URL         | https://alura-newsletter-guiagost.vercel.app/
 | :fire: Curso    | https://cursos.alura.com.br/course/tailwind-css-estilizando-pagina-classes-utilitarias
 
